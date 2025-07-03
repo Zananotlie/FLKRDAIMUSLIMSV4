@@ -5,5 +5,3 @@
 CREATED BY ZANA FAROQ 
 
 ## How It Works
-
-
